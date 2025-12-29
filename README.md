@@ -1,5 +1,5 @@
-# AI-ML-Capstone-1-Final
-# AI & ML Capstone 1 – Final Project
+# Ai & Machine Learning Bootcamp
+# AI & ML Capstone 1 – Final Project 1
 
 ## 📌 Project Overview
 
