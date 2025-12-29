@@ -98,7 +98,7 @@ Summarize key findings:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AI-ML-Capstone-1.git
+   git clone https://github.com/EdwardPYen/AI-ML-Capstone-1-Final.git
    ```
 
 2. Navigate to the project directory:
