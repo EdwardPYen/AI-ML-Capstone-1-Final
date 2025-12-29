@@ -123,6 +123,18 @@ Summarize key findings:
 
 ---
 
+## 📓 Viewing the Notebook
+
+**Note:** GitHub may have trouble rendering this notebook. Please use one of these alternatives:
+
+[![View in NBViewer](https://img.shields.io/badge/View%20in-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/EdwardPYen/AI-ML-Capstone-1-Final/blob/main/AI%26ML%20Capstone%201%20Final.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EdwardPYen/AI-ML-Capstone-1-Final/blob/main/AI%26ML%20Capstone%201%20Final.ipynb)
+
+**Or download the notebook** and open it locally in Jupyter or VS Code.
+
+---
+
 ## 📌 Future Improvements
 
 * Hyperparameter tuning
