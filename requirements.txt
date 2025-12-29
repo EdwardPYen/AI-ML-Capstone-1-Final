@@ -1,0 +1,22 @@
+# Core Data Science Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+
+# Optional but commonly used
+scipy>=1.10.0
+
+# If you used any of these, uncomment:
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
+# imbalanced-learn>=0.10.0
+# plotly>=5.14.0
