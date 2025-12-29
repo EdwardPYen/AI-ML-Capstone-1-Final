@@ -1,6 +1,4 @@
-# AI & Machine Learning Bootcamp
-# AI & ML Capstone 1 – Final Project 1
-
+# AI & ML Bootcamp Final Capstone 1
 ## 📌 Project Overview
 
 This repository contains the final submission for **AI & Machine Learning Capstone 1**. The project demonstrates end‑to‑end application of data analysis and machine learning techniques, including data preprocessing, exploratory data analysis (EDA), model development, and evaluation.
